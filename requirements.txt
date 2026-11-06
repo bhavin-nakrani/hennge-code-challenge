@@ -1,0 +1,5 @@
+# main.py itself uses ONLY the Python standard library.
+# These packages are for the submission helper (submit.py) and tests.
+requests>=2.32
+python-dotenv>=1.0
+pytest>=8.0
